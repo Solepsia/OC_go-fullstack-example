@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solepsia/OC_go-fullstack.git"
+  },
+  "author": "Solepsia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solepsia/OC_go-fullstack/issues"
+  },
+  "homepage": "https://github.com/Solepsia/OC_go-fullstack#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
